@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Crypto Rush
+
+This project is a cryptocurrency tracking web application developed with React.
+
+The live site is deployed at: [https://darshan-crypto-rush.netlify.app/](https://darshan-crypto-rush.netlify.app/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
